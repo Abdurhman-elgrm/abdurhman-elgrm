@@ -41,14 +41,7 @@ Also: Verilog/VHDL, microcontrollers, UART/SPI/I2C, circuit design, PCB basics
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Featured Projects
 
-| Area | Project | Description |
-|------|---------|-------------|
-| 🔌 Embedded | [Project Name](https://github.com/your-username/project-one) | e.g. Smart sensor node using a microcontroller and wireless communication |
-| 🧠 AI | [Project Name](https://github.com/your-username/project-two) | e.g. Image classifier trained in Python and deployed on a small device |
-| 📊 Data | [Project Name](https://github.com/your-username/project-three) | e.g. Data analysis and visualization of a real-world dataset |
-| 💻 Software | [Project Name](https://github.com/your-username/project-four) | e.g. Tool or app that solves a problem you care about |
 
 ## Goals
 
@@ -56,13 +49,4 @@ Also: Verilog/VHDL, microcontrollers, UART/SPI/I2C, circuit design, PCB basics
 - Contribute to open-source embedded and data science tools
 - Keep growing as an engineer who understands both hardware and software
 
-## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
-## Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
