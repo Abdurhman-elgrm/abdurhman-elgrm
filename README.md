@@ -10,7 +10,6 @@ I'm interested in the full stack of computing, from the circuits and firmware th
 - 🔧 Interested in **hardware design** and **embedded systems**
 - 💻 Building **software** that connects devices, data, and people
 - 🤖 Exploring **AI** and **data science**, especially running models on small devices
-- 🌱 Currently learning: **Your current topic (e.g. RTOS, PyTorch, FPGA design)**
 - 📫 Open to: **internships, collaborations, and open-source projects**
 
 ## Skills
