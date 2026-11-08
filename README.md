@@ -3,12 +3,6 @@
 # Hey there, I'm Abdelrahman 👋
 ### Data Science & AI Enthusiast | Turning data into insights 📊 | Always learning
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&width=500&lines=Data+Scientist+in+the+making;Machine+Learning+Enthusiast;Exploring+AI+%26+Deep+Learning;Always+Learning)
-
-
-
-</div>
-
 ---
 
 ## 🧠 About Me
